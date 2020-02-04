@@ -10,7 +10,7 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
-INSERT PRODUCT COPY HERE
+Sense the magnetic fields that surround us with this handy triple-axis magnetometer (compass) module. Magnetometers can sense where the strongest magnetic force is coming from, generally used to detect magnetic north, but can also be used for measuring magnetic fields. This sensor tends to be paired with a 6-DoF (degree of freedom) accelerometer/gyroscope to create a 9-DoF inertial measurement unit that can detect its orientation in real-space thanks to Earth's stable magnetic field. It's a great match for any of our 6-DoF IMU sensors such as the LSM6DSOX or LSM6DS33.
 
 ### License
 
