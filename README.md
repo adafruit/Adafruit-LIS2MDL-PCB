@@ -1,6 +1,6 @@
 ## Adafruit LIS2MDL 3-Axis Magnetometer PCB
 
-<a href="http://www.adafruit.com/products/4488"><img src="assets/4488.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/4488"><img src="assets/board.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit LIS2MDL 3-Axis Magnetometer. 
